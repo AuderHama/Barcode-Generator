@@ -2,7 +2,7 @@
 
 A simple and fast **C# barcode generator** built with **ZXing.Net**.  
 This tool allows you to generate and print barcodes directly from the command line.
-
+It supports from 1 digit to 20 and also supports letters.
 ---
 
 ## 🚀 Features
@@ -22,5 +22,6 @@ This tool allows you to generate and print barcodes directly from the command li
 ## 📁 How to Use
 
 ### 1. Download or Build the Project
-After building the project in Visual Studio, go to:
-
+You can use the C# project or...
+you can copy the files inside folder Barcode/bin/debug and inside it you can run the command like this:
+Barcode <barcode> <text> <printer-name> <copies>

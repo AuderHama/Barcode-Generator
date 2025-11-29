@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zanst\\Desktop\\Barcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EBB0-0854-4438-967E-3E0C5BB2DF77}|Barcode\\Barcode.csproj|c:\\users\\zanst\\desktop\\barcode\\barcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77EBB0-0854-4438-967E-3E0C5BB2DF77}|Barcode\\Barcode.csproj|solutionrelative:barcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zanst\\Desktop\\Barcode\\Barcode\\Program.cs",
+              "RelativeDocumentMoniker": "Barcode\\Program.cs",
+              "ToolTip": "C:\\Users\\Zanst\\Desktop\\Barcode\\Barcode\\Program.cs",
+              "RelativeToolTip": "Barcode\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:06:32.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

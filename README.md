@@ -23,5 +23,5 @@ It supports from 1 digit to 20 and also supports letters.
 
 ### 1. Download or Build the Project
 You can use the C# project or...
-you can copy the files inside folder Barcode/bin/debug and inside it you can run the command like this:
+you can copy the files inside folder `Barcode/bin/debug` and inside it you can run the command like this:
 `Barcode <barcode> <text> <printer-name> <copies>`
